@@ -68,7 +68,7 @@ body {
 
 .abas-textos{
     background-color: var(--texto-fundo);
-    padding: 40px;
+    padding: 20px;
     border-radius: 0 0 40px 40px;
 }
 .aba-conteudo.ativo{
@@ -87,6 +87,7 @@ body {
     text-align: center;
     color: var(--verde);
     text-transform: uppercase;
+    font-size: 50px;
 }
 
 .contador{
